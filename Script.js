@@ -9,7 +9,6 @@ var test= function()
 var sort= function(price)
 {
   var sortedArray= [];
-  var leastNum = price[0];
   var priceCopy = price.slice();
   
  for (i = 0; i < price.length; i++)
