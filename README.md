@@ -7,3 +7,5 @@ https://github.com/SwatiMaheshwari/Progamming-in-JS/blob/master/CountCharacterOc
 
 3. Create a prototype with 4 properties. Inherit from the prototype. Add new method and a property to the child.
 https://github.com/SwatiMaheshwari/Progamming-in-JS/blob/master/Prototype.js
+
+4. in progress
