@@ -1,12 +1,11 @@
 # Programming-in-JS
 SortArray.js ---Sort Array Without using inbuilt function sort of javascipt.
-URL : https://github.com/SwatiMaheshwari/Progamming-in-JS/blob/master/SortArray.js
+../SortArray.js
 
 CountCharacterOccurence.js--- Count the number of occurence of a characcter in a string.
-https://github.com/SwatiMaheshwari/Progamming-in-JS/blob/master/CountCharacterOccurence.js
+../blob/master/CountCharacterOccurence.js
 
 Create a prototype with 4 properties. Inherit from the prototype. Add new method and a property to the child.
-https://github.com/SwatiMaheshwari/Progamming-in-JS/blob/master/Prototype.js
+./Prototype.js
 
-Bubble sort for an array in JS.
-https://github.com/SwatiMaheshwari/Progamming-in-JS/blob/master/BubbleSort.js 
+Bubble sort for an array ../blob/master/BubbleSort.js 
