@@ -7,8 +7,8 @@ CountCharacterOccurence.js--- Count the number of occurence of a characcter in a
 [CountCharacter](/CountCharacterOccurence.js)
 
 Create a prototype with 4 properties. Inherit from the prototype. Add new method and a property to the child.
-[Prototype](Programming-in-JS/blob/master/Prototype.js)
+[Prototype](/Prototype.js)
 
-Bubble sort for an array [BubbleSort](Programming-in-JS/blob/master/BubbleSort.js) 
+Bubble sort for an array [BubbleSort](BubbleSort.js) 
 
-Merge Sort
+Merge Sort [MergeSort](mergesort.js)
