@@ -1,6 +1,6 @@
 # Programming-in-JS
 SortArray.js ---Sort Array Without using inbuilt function sort of javascipt.
-../SortArray.js
+[SortArray](Programming-in-JS/SortArray.js)
 
 CountCharacterOccurence.js--- Count the number of occurence of a characcter in a string.
 ../blob/master/CountCharacterOccurence.js
