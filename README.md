@@ -1,9 +1,9 @@
 # Programming-in-JS
-SortArray.js ---Sort Array Without using inbuilt function sort of javascipt.
+Sort Array Without using inbuilt function sort of javascipt.
 [SortArray](SortArray.js)
 
 
-CountCharacterOccurence.js--- Count the number of occurence of a characcter in a string.
+Count the number of occurence of a characcter in a string.
 [CountCharacter](/CountCharacterOccurence.js)
 
 Create a prototype with 4 properties. Inherit from the prototype. Add new method and a property to the child.
@@ -12,3 +12,5 @@ Create a prototype with 4 properties. Inherit from the prototype. Add new method
 Bubble sort for an array [BubbleSort](BubbleSort.js) 
 
 Merge Sort [MergeSort](mergesort.js)
+
+Insertion Sort [InsertionSort](insertionsort.js)
